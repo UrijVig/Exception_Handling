@@ -1,4 +1,4 @@
-package Task_01.tools;
+package PasswordVerifierProject.tools;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Task_01.Exception;
+package PasswordVerifierProject.Exception;
 
 public class MissingNumberInPasswordException extends Exception{
     public MissingNumberInPasswordException(String message) {

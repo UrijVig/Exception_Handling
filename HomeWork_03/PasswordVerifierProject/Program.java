@@ -1,10 +1,10 @@
-package Task_01;
+package PasswordVerifierProject;
 
-import Task_01.Exception.MissingCapitalLetterInPasswordException;
-import Task_01.Exception.MissingNumberInPasswordException;
-import Task_01.Exception.PasswordLengthException;
-import Task_01.tools.InputData;
-import Task_01.tools.PasswordVerifier;
+import PasswordVerifierProject.Exception.MissingCapitalLetterInPasswordException;
+import PasswordVerifierProject.Exception.MissingNumberInPasswordException;
+import PasswordVerifierProject.Exception.PasswordLengthException;
+import PasswordVerifierProject.tools.InputData;
+import PasswordVerifierProject.tools.PasswordVerifier;
 
 import java.util.Scanner;
 

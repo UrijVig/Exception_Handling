@@ -1,8 +1,8 @@
-package Task_01.tools;
+package PasswordVerifierProject.tools;
 
-import Task_01.Exception.MissingCapitalLetterInPasswordException;
-import Task_01.Exception.MissingNumberInPasswordException;
-import Task_01.Exception.PasswordLengthException;
+import PasswordVerifierProject.Exception.MissingCapitalLetterInPasswordException;
+import PasswordVerifierProject.Exception.MissingNumberInPasswordException;
+import PasswordVerifierProject.Exception.PasswordLengthException;
 
 public class PasswordVerifier {
     public boolean checkLength(String data) throws PasswordLengthException {
